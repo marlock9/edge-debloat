@@ -125,3 +125,9 @@ Windows Registry Editor Version 5.00
 "ProactiveAuthWorkflowEnabled"=dword:00000000
 "CopilotPageContext"=dword:00000000
 "CopilotCDPPageContext"=dword:00000000
+"NewTabPageContentEnabled"=dword:00000000
+"NewTabPageAppLauncherEnabled"=dword:00000000
+"NewTabPageBingChatEnabled"=dword:00000000
+"NewTabPageQuickLinksEnabled"=dword:00000000
+"QRCodeGeneratorEnabled"=dword:00000000
+"TranslateEnabled"=dword:00000000
