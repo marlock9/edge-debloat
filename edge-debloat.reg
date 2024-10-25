@@ -18,7 +18,6 @@ Windows Registry Editor Version 5.00
 "ShowMicrosoftRewards"=dword:00000000
 "AutoImportAtFirstRun"=dword:00000004
 "EdgeWorkspacesEnabled"=dword:00000000
-"CryptoWalletEnabled"=dword:00000000
 "EdgeWalletCheckoutEnabled"=dword:00000000
 "EdgeWalletEtreeEnabled"=dword:00000000
 "HideFirstRunExperience"=dword:00000000
@@ -36,7 +35,6 @@ Windows Registry Editor Version 5.00
 "ConfigureOnlineTextToSpeech"=dword:00000000
 "ConfigureShare"=dword:00000000
 "DefaultBrowserSettingsCampaignEnabled"=dword:00000000
-"DiscoverPageContextEnabled"=dword:00000000
 "Edge3PSerpTelemetryEnabled"=dword:00000000
 "EdgeEDropEnabled"=dword:00000000
 "SyncDisabled"=dword:00000001
@@ -95,7 +93,6 @@ Windows Registry Editor Version 5.00
 "BingAdsSuppression"=dword:00000001
 "ConfigureDoNotTrack"=dword:00000001
 "EdgeAssetDeliveryServiceEnabled"=dword:00000000
-"EdgeFollowEnabled"=dword:00000000
 "EdgeShoppingAssistantEnabled"=dword:00000000
 "ExperimentationAndConfigurationServiceControl"=dword:00000000
 "NetworkPredictionOptions"=dword:00000000
@@ -131,3 +128,6 @@ Windows Registry Editor Version 5.00
 "NewTabPageQuickLinksEnabled"=dword:00000000
 "QRCodeGeneratorEnabled"=dword:00000000
 "TranslateEnabled"=dword:00000000
+"SpotlightExperiencesAndRecommendationsEnabled"=dword:00000000
+"ApplicationGuardFavoritesSyncEnabled"=dword:00000000
+"ApplicationGuardTrafficIdentificationEnabled"=dword:00000000
