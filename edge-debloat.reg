@@ -27,7 +27,6 @@ Windows Registry Editor Version 5.00
 "AddressBarMicrosoftSearchInBingProviderEnabled"=dword:00000000
 "AllowGamesMenu"=dword:00000000
 "AutomaticHttpsDefault"=dword:00000002
-"BackgroundModeEnabled"=dword:00000000
 "BrowserAddProfileEnabled"=dword:00000000
 "BrowserGuestModeEnabled"=dword:00000000
 "ComposeInlineEnabled"=dword:00000000
@@ -49,7 +48,6 @@ Windows Registry Editor Version 5.00
 "MicrosoftEditorSynonymsEnabled"=dword:00000000
 "MicrosoftEditorProofingEnabled"=dword:00000000
 "RelatedWebsiteSetsEnabled"=dword:00000000
-"MouseGestureEnabled"=dword:00000000
 "PaymentMethodQueryEnabled"=dword:00000000
 "PinningWizardAllowed"=dword:00000000
 "PromotionalTabsEnabled"=dword:00000000
@@ -99,8 +97,7 @@ Windows Registry Editor Version 5.00
 "UserFeedbackAllowed"=dword:00000000
 "WebWidgetAllowed"=dword:00000000
 "TyposquattingCheckerEnabled"=dword:00000000
-"TrackingPrevention"=dword:00000002
-"SleepingTabsEnabled"=dword:00000000
+"TrackingPrevention"=dword:00000003
 "SigninInterceptionEnabled"=dword:00000000
 "SideSearchEnabled"=dword:00000000
 "ShowPDFDefaultRecommendationsEnabled"=dword:00000000
@@ -113,7 +110,6 @@ Windows Registry Editor Version 5.00
 "PasswordLeakDetectionEnabled"=dword:00000000
 "MAMEnabled"=dword:00000000
 "HighEfficiencyModeEnabled"=dword:00000000
-"EfficiencyModeEnabled"=dword:00000000
 "EdgeManagementEnabled"=dword:00000000
 "DesktopSharingHubEnabled"=dword:00000000
 "CopilotPageContextEnabled"=dword:00000000
@@ -135,4 +131,9 @@ Windows Registry Editor Version 5.00
 "PersonalizeTopSitesInCustomizeSidebarEnabled"=dword:00000000
 "ExtensionsPerformanceDetectorEnabled"=dword:00000000
 "PerformanceDetectorEnabled"=dword:00000000
+"EdgeEntraCopilotPageContext"=dword:00000000
+"MouseGestureEnabled"=dword:00000000
+"DisableScreenshots"=dword:00000000
+"WebCaptureEnabled"=dword:00000000
+"SpellcheckEnabled"=dword:00000000
 
