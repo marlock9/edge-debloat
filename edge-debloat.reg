@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
-"HideFirstRunExperience"=dword:00000000
+"HideFirstRunExperience"=dword:00000001
 "SearchInSidebarEnabled"=dword:00000002
 "HubsSidebarEnabled"=dword:00000000
 "ReadAloudEnabled"=dword:00000000
