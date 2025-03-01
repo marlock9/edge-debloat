@@ -1,6 +1,7 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"HideFirstRunExperience"=dword:00000000
 "SearchInSidebarEnabled"=dword:00000002
 "HubsSidebarEnabled"=dword:00000000
 "ReadAloudEnabled"=dword:00000000
@@ -20,7 +21,6 @@ Windows Registry Editor Version 5.00
 "EdgeWorkspacesEnabled"=dword:00000000
 "EdgeWalletCheckoutEnabled"=dword:00000000
 "EdgeWalletEtreeEnabled"=dword:00000000
-"HideFirstRunExperience"=dword:00000000
 "BuiltInDnsClientEnabled"=dword:00000000
 "AADWebSiteSSOUsingThisProfileEnabled"=dword:00000000
 "AccessibilityImageLabelsEnabled"=dword:00000000
@@ -100,7 +100,6 @@ Windows Registry Editor Version 5.00
 "WebWidgetAllowed"=dword:00000000
 "TyposquattingCheckerEnabled"=dword:00000000
 "TrackingPrevention"=dword:00000002
-"StartupBoostEnabled"=dword:00000001
 "SleepingTabsEnabled"=dword:00000000
 "SigninInterceptionEnabled"=dword:00000000
 "SideSearchEnabled"=dword:00000000
@@ -114,14 +113,12 @@ Windows Registry Editor Version 5.00
 "PasswordLeakDetectionEnabled"=dword:00000000
 "MAMEnabled"=dword:00000000
 "HighEfficiencyModeEnabled"=dword:00000000
-"GoogleSearchSidePanelEnabled"=dword:00000000
 "EfficiencyModeEnabled"=dword:00000000
 "EdgeManagementEnabled"=dword:00000000
 "DesktopSharingHubEnabled"=dword:00000000
 "CopilotPageContextEnabled"=dword:00000000
 "ProactiveAuthWorkflowEnabled"=dword:00000000
 "CopilotPageContext"=dword:00000000
-"CopilotCDPPageContext"=dword:00000000
 "NewTabPageContentEnabled"=dword:00000000
 "NewTabPageAppLauncherEnabled"=dword:00000000
 "NewTabPageBingChatEnabled"=dword:00000000
@@ -131,3 +128,11 @@ Windows Registry Editor Version 5.00
 "SpotlightExperiencesAndRecommendationsEnabled"=dword:00000000
 "ApplicationGuardFavoritesSyncEnabled"=dword:00000000
 "ApplicationGuardTrafficIdentificationEnabled"=dword:00000000
+"WebToBrowserSignInEnabled"=dword:00000000
+"SeamlessWebToBrowserSignInEnabled"=dword:00000000
+"EdgeAutofillMlEnabled"=dword:00000000
+"GenAILocalFoundationalModelSettings"=dword:00000001
+"PersonalizeTopSitesInCustomizeSidebarEnabled"=dword:00000000
+"ExtensionsPerformanceDetectorEnabled"=dword:00000000
+"PerformanceDetectorEnabled"=dword:00000000
+
