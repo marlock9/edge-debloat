@@ -52,7 +52,6 @@ Windows Registry Editor Version 5.00
 "PromotionalTabsEnabled"=dword:00000000
 "QuickSearchShowMiniMenu"=dword:00000000
 "QuickViewOfficeFilesEnabled"=dword:00000000
-"RelatedMatchesCloudServiceEnabled"=dword:00000000
 "RemoteDebuggingAllowed"=dword:00000000
 "ResolveNavigationErrorsUseWebService"=dword:00000000
 "RoamingProfileSupportEnabled"=dword:00000000
@@ -136,4 +135,5 @@ Windows Registry Editor Version 5.00
 "SpellcheckEnabled"=dword:00000000
 "AddressBarWorkSearchResultsEnabled"=dword:00000000
 "ScarewareBlockerProtectionEnabled"=dword:00000000
+"AddressBarTrendingSuggestEnabled"=dword:00000000
 
