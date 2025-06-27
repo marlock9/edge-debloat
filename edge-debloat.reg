@@ -23,7 +23,6 @@ Windows Registry Editor Version 5.00
 "BuiltInDnsClientEnabled"=dword:00000000
 "AADWebSiteSSOUsingThisProfileEnabled"=dword:00000000
 "AccessibilityImageLabelsEnabled"=dword:00000000
-"AddressBarMicrosoftSearchInBingProviderEnabled"=dword:00000000
 "AllowGamesMenu"=dword:00000000
 "AutomaticHttpsDefault"=dword:00000002
 "BrowserAddProfileEnabled"=dword:00000000
@@ -136,4 +135,6 @@ Windows Registry Editor Version 5.00
 "AddressBarWorkSearchResultsEnabled"=dword:00000000
 "ScarewareBlockerProtectionEnabled"=dword:00000000
 "AddressBarTrendingSuggestEnabled"=dword:00000000
+"BuiltInAIAPIsEnabled"=dword:00000000
+"EdgeHistoryAISearchEnabled"=dword:00000000
 
