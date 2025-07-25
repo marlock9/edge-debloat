@@ -90,7 +90,7 @@ Windows Registry Editor Version 5.00
 "EdgeAssetDeliveryServiceEnabled"=dword:00000000
 "EdgeShoppingAssistantEnabled"=dword:00000000
 "ExperimentationAndConfigurationServiceControl"=dword:00000000
-"NetworkPredictionOptions"=dword:00000000
+"NetworkPredictionOptions"=dword:00000002
 "UserFeedbackAllowed"=dword:00000000
 "WebWidgetAllowed"=dword:00000000
 "TyposquattingCheckerEnabled"=dword:00000000
@@ -137,4 +137,19 @@ Windows Registry Editor Version 5.00
 "AddressBarTrendingSuggestEnabled"=dword:00000000
 "BuiltInAIAPIsEnabled"=dword:00000000
 "EdgeHistoryAISearchEnabled"=dword:00000000
+"NewTabPageAllowedBackgroundTypes"=dword:00000003
+"NewTabPageHideDefaultTopSites"=dword:00000001
+"StartupBoostEnabled"=dword:00000000
+"BackgroundModeEnabled"=dword:00000000
+"DefaultBrowserSettingEnabled"=dword:00000000
+"AllowSystemNotifications"=dword:00000000
+"AutoplayAllowed"=dword:00000000
+"DefaultNotificationsSetting"=dword:00000002
+"ClickOnceEnabled"=dword:00000000
+"NewTabPagePrerenderEnabled"=dword:00000000
+"InternetExplorerIntegrationLevel"=dword:00000000
+"InternetExplorerIntegrationReloadInIEModeAllowed"=dword:00000000
+"HideInternetExplorerRedirectUXForIncompatibleSitesEnabled"=dword:00000001
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\EdgeUpdate]
+"CreateDesktopShortcutDefault"=dword:00000000
