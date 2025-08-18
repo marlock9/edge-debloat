@@ -152,3 +152,5 @@ Windows Registry Editor Version 5.00
 "FamilySafetySettingsEnabled"=dword:00000000
 "Microsoft365CopilotChatIconEnabled"=dword:00000000
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\EdgeUpdate]
+"CreateDesktopShortcutDefault"=dword:00000000
