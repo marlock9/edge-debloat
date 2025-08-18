@@ -82,7 +82,6 @@ Windows Registry Editor Version 5.00
 "AADWebSSOAllowed"=dword:00000000
 "AIGenThemesEnabled"=dword:00000000
 "AccessCodeCastEnabled"=dword:00000000
-"AdditionalDnsQueryTypesEnabled"=dword:00000000
 "AdsTransparencyEnabled"=dword:00000000
 "EdgeAdminCenterEnabled"=dword:00000000
 "BingAdsSuppression"=dword:00000001
@@ -150,6 +149,6 @@ Windows Registry Editor Version 5.00
 "InternetExplorerIntegrationLevel"=dword:00000000
 "InternetExplorerIntegrationReloadInIEModeAllowed"=dword:00000000
 "HideInternetExplorerRedirectUXForIncompatibleSitesEnabled"=dword:00000001
+"FamilySafetySettingsEnabled"=dword:00000000
+"Microsoft365CopilotChatIconEnabled"=dword:00000000
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\EdgeUpdate]
-"CreateDesktopShortcutDefault"=dword:00000000
