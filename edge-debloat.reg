@@ -24,7 +24,6 @@ Windows Registry Editor Version 5.00
 "AADWebSiteSSOUsingThisProfileEnabled"=dword:00000000
 "AccessibilityImageLabelsEnabled"=dword:00000000
 "AllowGamesMenu"=dword:00000000
-"AutomaticHttpsDefault"=dword:00000002
 "BrowserAddProfileEnabled"=dword:00000000
 "BrowserGuestModeEnabled"=dword:00000000
 "ComposeInlineEnabled"=dword:00000000
@@ -151,6 +150,21 @@ Windows Registry Editor Version 5.00
 "HideInternetExplorerRedirectUXForIncompatibleSitesEnabled"=dword:00000001
 "FamilySafetySettingsEnabled"=dword:00000000
 "Microsoft365CopilotChatIconEnabled"=dword:00000000
+"SyncTypesListDisabled"="favorites"
+"HttpsOnlyMode"="force_enabled"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\SyncTypesListDisabled]
+"1"="favorites"
+"2"="settings"
+"3"="passwords"
+"4"="addressesAndMore"
+"5"="extensions"
+"6"="history"
+"7"="openTabs"
+"8"="edgeWallet"
+"9"="collections"
+"10"="apps"
+"11"="edgeFeatureUsage"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\EdgeUpdate]
 "CreateDesktopShortcutDefault"=dword:00000000
