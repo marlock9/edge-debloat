@@ -150,7 +150,6 @@ Windows Registry Editor Version 5.00
 "HideInternetExplorerRedirectUXForIncompatibleSitesEnabled"=dword:00000001
 "FamilySafetySettingsEnabled"=dword:00000000
 "Microsoft365CopilotChatIconEnabled"=dword:00000000
-"SyncTypesListDisabled"="favorites"
 "HttpsOnlyMode"="force_enabled"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\SyncTypesListDisabled]
@@ -168,3 +167,4 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\EdgeUpdate]
 "CreateDesktopShortcutDefault"=dword:00000000
+
