@@ -151,6 +151,7 @@ Windows Registry Editor Version 5.00
 "FamilySafetySettingsEnabled"=dword:00000000
 "Microsoft365CopilotChatIconEnabled"=dword:00000000
 "HttpsOnlyMode"="force_enabled"
+"LiveVideoTranslationEnabled"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\SyncTypesListDisabled]
 "1"="favorites"
@@ -167,4 +168,3 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\EdgeUpdate]
 "CreateDesktopShortcutDefault"=dword:00000000
-
